@@ -1,0 +1,22 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "This open source project was created to automate youtube videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specitied\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flavio0567/video-maker.git"
+  },
+  "author": "Flavio Rocha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavio0567/video-maker/issues"
+  },
+  "homepage": "https://github.com/flavio0567/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
